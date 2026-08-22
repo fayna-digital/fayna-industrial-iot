@@ -6,7 +6,7 @@
 ---
 
 > **Note:** this is a demo/portfolio project. The production implementation
-> is [dnj-shopfloor](https://github.com/VladSh77/dnj-shopfloor) (private).
+> is [fayna-shopfloor-kiosk](https://github.com/fayna-digital/fayna-shopfloor-kiosk).
 
 ---
 

@@ -154,7 +154,7 @@ stored by the bridge itself
 
 ## Related projects
 
-- [dnj-shopfloor](https://github.com/VladSh77/dnj-shopfloor) — the full
+- [fayna-shopfloor-kiosk](https://github.com/fayna-digital/fayna-shopfloor-kiosk) — the full
   production Odoo module this demo's concept was extended into: operator
   kiosk, manager dashboard, and a hardened Modbus bridge.
 
