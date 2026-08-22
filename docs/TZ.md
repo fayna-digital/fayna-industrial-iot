@@ -1,4 +1,4 @@
-# TZ — demo-industrial-iot (Industrial IoT Bridge Demo)
+# TZ — fayna-industrial-iot (Industrial IoT Bridge Demo)
 
 > Full checklist of implemented and planned functionality.
 > ✅ — done | 🔲 — planned | ❌ — cancelled

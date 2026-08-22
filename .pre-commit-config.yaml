@@ -1,4 +1,4 @@
-# Pre-commit hooks — demo-industrial-iot. Pinned tool versions live in this
+# Pre-commit hooks — fayna-industrial-iot. Pinned tool versions live in this
 # file, so any clone reproduces the full quality gate with no manual installs:
 #   uvx pre-commit run --all-files      # zero-install (uv fetches everything)
 # or, once installed:
